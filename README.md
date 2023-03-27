@@ -9,9 +9,9 @@ __Principais trabalhos desenvolvidos em WordPress__
 <h2>Site Vox Hominis</h2>
 <p><a href="https://voxhominis.com.br">voxhominis.com.br</a></p>
 <p>Site que aborda temas políticos, com publicação de artigos e ferramentas para consulta pública sobre dados financeiros (calculadora cidadã). Com Request API para obtenção de dados oficiais do Banco Central e atualização dos cálculos de taxas cambiais e correção monetária.</p>
-<h2>Landing Page Dra. Byanca Rossetti</h2>
+<h2>Landing Page Núcleo de Cirurgia Plástica</h2>
 <p><a href="https://nucleocirurgiaplastica.com">nucleocirurgiaplastica.com</a></p>
-<p>Landing page desenvolvida com tema OnePage Express Theme, personalizado em CSS.</p>
+<p>Landing page desenvolvida com tema OnePage Express Theme, personalizado em CSS, para clínica cirúrgica.</p>
 <h2>Landing Page Auto Socorro ASA</h2>
 <p><a href="https://autosocorroasa.com.br">autosocorroasa.com.br</a></p>
-<p>Landing page desenvolvida com plugin Elementor, animações disponíveis para o plugin.</p>
+<p>Landing page desenvolvida para empresa que presta serviços mecânicos e de guincho, com plugin Elementor, animações disponíveis para o plugin.</p>
