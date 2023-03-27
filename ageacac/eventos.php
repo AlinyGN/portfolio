@@ -25,7 +25,7 @@ while($recado = mysqli_fetch_array($pega_recado)) {
     $orga = $recado["organizador"];
     $nome = $recado["nome"];
     $formulario = $recado["formulario"];
-//impressão dos dados dos eventos registrados no banco de dados    
+//exemplo de impressão em loop dos dados dos eventos registrados no banco de dados   
 echo "<p><spam style='border:1px solid #ccc;'>&nbsp;&nbsp;".$tipo."&nbsp;&nbsp;</spam><br>
 <img src='/evento/imagem/".$nome."' style='float:left; max-height:300px; max-width:400px; min-height:200px;min-width:250px; object-fit:cover;object-position:left; padding-right:2%;'> 
 <spam style='font-size:150%;margin-bottom:1%;padding-bottom:1%;'><b>".$titulo."</b></spam><br><br>
