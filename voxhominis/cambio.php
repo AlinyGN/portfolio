@@ -1,4 +1,4 @@
-<php
+<?php
 	 //função de requisição por consulta API json para cotação diária de moeda
 function cotacao($moeda){	
 $url = "http://economia.awesomeapi.com.br/json/last/$moeda";

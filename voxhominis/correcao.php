@@ -1,4 +1,4 @@
-<php
+<?php
 if(isset($_POST['enviar'])){		//testa se o form foi enviado
 	 //obtenção dos campos do form
 	$c1 = str_replace(',','.',($_POST["campo1"]));	//campo valor a ser corrigido
